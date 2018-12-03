@@ -1,0 +1,25 @@
+passos do github: 
+git clone https://github.com/DimitriLeandro/ProjetoFinalSistemasInteligentesUFABC.git
+
+Antes de alterar alguma coisa, vefrifique se vc está atualizado:
+
+git pull
+
+Depois das alterações:
+
+git status
+git add -A
+git commit -m "header principal" -m "Descrevendo mais detalhadamente"
+git push origin master
+-> login 
+-> senha
+
+link do projeto no overleaf: https://pt.overleaf.com/7621918413tbxvnxjhfrfp
+
+MODELO DE RELATORIO DO OVERLEAF TIRADO DE: "IET Journal Submission (Electronics Letters example)"
+
+LINKS PARA SVM:
+
+teoria wikipedia: https://en.wikipedia.org/wiki/Support_vector_machine
+video teorico(mit): https://www.youtube.com/watch?v=_PwhiWxHK8o
+
