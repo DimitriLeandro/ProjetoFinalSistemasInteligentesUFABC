@@ -20,6 +20,28 @@ MODELO DE RELATORIO DO OVERLEAF TIRADO DE: "IET Journal Submission (Electronics 
 
 LINKS PARA SVM:
 
+scikit svm: https://scikit-learn.org/stable/modules/svm.html
+
 teoria wikipedia: https://en.wikipedia.org/wiki/Support_vector_machine
+
 video teorico(mit): https://www.youtube.com/watch?v=_PwhiWxHK8o
+
+implementacao em texto da svm: https://medium.com/deep-math-machine-learning-ai/chapter-3-1-svm-from-scratch-in-python-86f93f853dc
+
+video implementando svm (4 videos de 15 minutos em média): https://www.youtube.com/watch?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&v=AbVtcUBlBok (videos p.25/26/27/28)
+
+LINKS PARA KMEANS:
+
+scikit kmeans: https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
+
+teoria wikipedia: https://en.wikipedia.org/wiki/K-means_clustering
+
+video teorico sobre clusterizacao (mit): https://www.youtube.com/watch?v=esmzYhuFnds
+
+implementacao em texto do kmeans: http://madhugnadig.com/articles/machine-learning/2017/03/04/implementing-k-means-clustering-from-scratch-in-python.html
+
+implementacao em video do kmeans (1 video de 15 min): https://www.youtube.com/watch?v=HRoeYblYhkg
+
+
+
 
